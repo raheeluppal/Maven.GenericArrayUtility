@@ -7,7 +7,8 @@ import org.junit.Test;
  * Created by leon on 3/1/18.
  * The purpose of this class is to thoroughly test the method getNumberOfOccurrences()
  */
-public class GetNumberOfOccurrencesTest {
+public class
+GetNumberOfOccurrencesTest {
     @Test
     public void integerTest() {
         // Given
